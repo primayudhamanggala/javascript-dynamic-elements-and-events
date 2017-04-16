@@ -1,0 +1,6 @@
+{"todo":
+  [
+    {"id":1,"activity":"Eat","completion":false,"create_date":"2017-02-04","update_date":"2017-04-09T09:13:56.388Z"},
+    {"id":2,"activity":"Sleep","completion":false,"create_date":"2017-02-04","update_date":"2017-04-09T08:55:56.158Z"},
+    {"id":3,"activity":"Code","completion":false,"create_date":"2017-02-04","update_date":"2017-04-09T09:24:25.132Z"}
+  ]}

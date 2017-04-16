@@ -1,0 +1,25 @@
+{
+  "name": "javascript-dynamic-elements-and-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primayudhamanggala/javascript-dynamic-elements-and-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primayudhamanggala/javascript-dynamic-elements-and-events/issues"
+  },
+  "homepage": "https://github.com/primayudhamanggala/javascript-dynamic-elements-and-events#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mustache": "^2.3.0"
+  }
+}
